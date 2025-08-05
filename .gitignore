@@ -1,0 +1,6 @@
+.env
+__pycache__/
+uploaded_files/
+cache/
+exports/
+pandasai.log
