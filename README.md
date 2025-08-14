@@ -18,6 +18,16 @@ This is a **Streamlit** application that uses **AI** to help you analyze and vis
    - A text-based explanation  
    - A table  
    - Or an auto-generated chart
+  
+<p align="center">
+  <img src="streamlit_app_1.png" width="1000" height="600" />
+  <br />
+</p>
+
+<p align="center">
+  <img src="streamlit_app_2.png" width="1000" height="400" />
+  <br />
+</p>
 
 
 ## Features
